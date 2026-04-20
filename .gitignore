@@ -1,3 +1,5 @@
+# temp folder for uvm test
+temp/
 
 # Ncverilog
 .simvision/
